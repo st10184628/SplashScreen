@@ -13,6 +13,9 @@
         android:theme="@style/Theme.SplashScreen"
         tools:targetApi="31">
         <activity
+            android:name=".HomescreenAfrikaans"
+            android:exported="false" />
+        <activity
             android:name=".HomeScreenItalian"
             android:exported="false" />
         <activity
